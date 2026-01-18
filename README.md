@@ -1,6 +1,8 @@
 
 <img width="480" height="528" alt="crayfish_blue_icon_main" src="https://github.com/user-attachments/assets/07f45f86-f9fb-48ce-b18e-34acd6e2aa92" />
 
+# About
+
 ‘Not So Shrimple - Remolted’ is an unofficial continuation of the original mod created by Peeko123 which introduces a series of new crustaceans and crustacean-adjacent mobs to the world of Minecraft.
 
 
