@@ -33,11 +33,9 @@ When killed, they have a chance to drop Purging Stones.
 </a>
 
 # Plans
-*There are a variety of new mobs based on shelled-creatures from other games that I would like to add:
-- Unrevealed Mob 1
-- Unrevealed Mob 2
-- Unrevealed Mob 3
-- Unrevealed Mob 4
+*Entity behavior improvements / new abilities.
+
+*Maybe new mobs based on shelled-creatures from other games.
 
 *Update to 1.21+ : Maybe? Hopefully? Time will tell...
 
